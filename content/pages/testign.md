@@ -5,7 +5,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     content: |
-      ##
+      ## ![](/images/cool-wallaby.jpeg)
     actions: []
     type: section_hero
 seo:

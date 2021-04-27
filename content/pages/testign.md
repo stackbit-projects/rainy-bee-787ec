@@ -18,6 +18,7 @@ sections:
 
       - dolor sit amet
     type: section_content
+    image: images/fierce-comet.jpeg
 seo:
   title: ''
   description: ''
